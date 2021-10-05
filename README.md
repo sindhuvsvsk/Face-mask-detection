@@ -17,3 +17,13 @@ Integrate_faceandmask.py --image <image name>
 
 Flask Local app:
 Finally we also created a local flask app to run our model on real time images using a web portal. To run a local flask app, download Code_for_Flask_app as it is and follow the steps mentioned in readme.
+  
+  This folder contains the final trained mask detector model with best performance and code to create a local web app.
+
+1. Download this folder as it is.
+2. Run python app.py
+3. Open the link displayed.
+4. Select image for detection (jpg image)
+5. Submit.
+6. Result of the Face Mask detector is displayed.
+
