@@ -27,3 +27,7 @@ Finally we also created a local flask app to run our model on real time images u
 5. Submit.
 6. Result of the Face Mask detector is displayed.
 
+Outcome:
+  ![Picture1](https://user-images.githubusercontent.com/83885131/157334261-7a1b6a39-16ea-4527-9ee6-10f312af661d.png)
+![final](https://user-images.githubusercontent.com/83885131/157334279-1fa59924-26b5-4bfc-9e48-f1c3f956ad96.png)
+![single](https://user-images.githubusercontent.com/83885131/157334298-558aee99-c1d0-4aed-bc9b-2edba2ae7996.png)
