@@ -7,9 +7,12 @@ Training Mask detector: Three separate notebooks for training mask detector were
 2.	Mobile NetV2 : Mask_detection_improvised_mobilenetv2.ipynb
 3.	VGG16: VGG16 Model.ipynb
 
+Face_detector: 
+Pretrained Face Detection model (SSD) was saved in the face_detector folder. Face_detector folder should be present in the folder of the python script along with the saved mask detector model.
+
 Face Mask detection: MobileNetV2 gave best results and the trained model was saved and used with a pre-trained face detection SSD model to identify masks in the faces in an image.
 
-Pretrained Face Detection model was saved in the face_detector folder. Face_detector folder should be present in the folder of the python script along with the saved mask detector model.
+
 Final Python script: integrate_faceandmask.py
 
 To test on real time image run below command:
